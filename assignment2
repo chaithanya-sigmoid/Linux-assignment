@@ -7,6 +7,11 @@ sleep 30
 echo "the process is in sleep and now its is completed" 
 pkill screen 
 
+#1)we have to install the screen command first by updating sudo apt install screen
+#2)then we have to intiate screen command
+#3)then we write the above code in vi editor in  new screen
+#4) then we execute that code by ./
+
 
 
 
