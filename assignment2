@@ -1,0 +1,14 @@
+#!/bin/bash
+echo "the process now went to sleep for 30 seconds" 
+
+sleep 30 
+
+
+echo "the process is in sleep and now its is completed" 
+pkill screen 
+
+
+
+
+
+
